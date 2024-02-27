@@ -1,5 +1,7 @@
 # Tethys Platform Tutorial (SciPy 2024)
 
+[Overview Slides](https://docs.google.com/presentation/d/1ZTdTJIylP_d5Q1jGutG80qO4gvhPb2ZkYs9Huj_j1rg/edit?usp=sharing)
+
 ## Setup Instructions
 
 We recommend creating a separate conda or virtual environment to install tethys-platform. Here are instructions for creating the environment with conda and venv.
@@ -58,8 +60,9 @@ Content will be drawn from the [Key Concepts Tutorials](https://docs.tethysplatf
 Content will be drawn from the [Bokeh Integration Tutorial](https://docs.tethysplatform.org/en/stable/tutorials/bokeh.html)
 - Introduction (10 min.)
   - Demo the notebooks that will be converted (pre-existing)
-  - Integrate Bokeh Notebook into Tethys App (45 min.)
+- Integrate Bokeh Notebook into Tethys App (45 min.)
 - Break (10 min.)
-- Add Panel to App (40 min.)
+- Add Panel to App (30 min.)
   - Introduce Panel/Panel Notebook
   - Integrate Panel dashboard into Tethys app
+- Wrap-up and Questions (10 min.)

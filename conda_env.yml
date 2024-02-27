@@ -1,0 +1,10 @@
+name: tethys
+channels:
+  - conda-forge
+  - tethysplatform
+  - erdc
+dependencies:
+  - micro-tethys-platform
+  - bokeh
+  - panel
+  - bokeh-django
